@@ -7,7 +7,7 @@ We can use CPLEX, or the built-in function intlinprog() in MATLAB R2014a and aft
 
 The dataset is read in readXyw.m function via the files X.txt, y.txt and w.txt which can be adopted as desired.
 Currently, also weights w are supported for an extension called 'maximum weighted score estimator'.
-In order to have for a more flexible modeling approach, readers are suggested to consult the GAMS version
+In order to have a more flexible modeling approach, readers are suggested to consult the GAMS version
 of the same model in https://www.gams.com/modlib/libhtml/mws.htm.
 
 Feedback for the MATLAB code at cflorios@central.ntua.gr, cflorios@aueb.gr 
