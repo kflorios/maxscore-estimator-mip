@@ -11,6 +11,7 @@ In order to have a more flexible modeling approach, readers are suggested to con
 of the same model in https://www.gams.com/modlib/libhtml/mws.htm.
 
 Feedback for the MATLAB code at cflorios@central.ntua.gr, cflorios@aueb.gr 
+
 Suggested publication:  
 
 Florios, K., Skouras, S. 
