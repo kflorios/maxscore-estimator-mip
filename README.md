@@ -11,4 +11,10 @@ In order to have a more flexible modeling approach, readers are suggested to con
 of the same model in https://www.gams.com/modlib/libhtml/mws.htm.
 
 Feedback for the MATLAB code at cflorios@central.ntua.gr, cflorios@aueb.gr 
-Suggested publication:  http://www.sciencedirect.com/science/article/pii/S0304407608000778 
+Suggested publication:  
+
+Florios, K., Skouras, S. 
+Exact computation of max weighted score estimators
+(2008) Journal of Econometrics, 146 (1), pp. 86-91.
+
+http://www.sciencedirect.com/science/article/pii/S0304407608000778 
